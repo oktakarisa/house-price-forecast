@@ -78,34 +78,34 @@ Preview of first 10 rows:
 Mean Squared Error (MSE): 2495554898.67
 
 **GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem2_linear_regression_GrLivArea.png)
+![GrLivArea](plots/problem2_linear_regression_GrLivArea.png)
 
 **YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem2_linear_regression_YearBuilt.png)
+![YearBuilt](plots/problem2_linear_regression_YearBuilt.png)
 
 **Linear Regression - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem3_linear_regression_GrLivArea.png)
+![GrLivArea](plots/problem3_linear_regression_GrLivArea.png)
 
 **Linear Regression - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem3_linear_regression_YearBuilt.png)
+![YearBuilt](plots/problem3_linear_regression_YearBuilt.png)
 
 **SVR - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem3_svr_GrLivArea.png)
+![GrLivArea](plots/problem3_svr_GrLivArea.png)
 
 **SVR - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem3_svr_YearBuilt.png)
+![YearBuilt](plots/problem3_svr_YearBuilt.png)
 
 **Decision Tree - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem3_decision_tree_GrLivArea.png)
+![GrLivArea](plots/problem3_decision_tree_GrLivArea.png)
 
 **Decision Tree - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem3_decision_tree_YearBuilt.png)
+![YearBuilt](plots/problem3_decision_tree_YearBuilt.png)
 
 **Random Forest - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem3_random_forest_GrLivArea.png)
+![GrLivArea](plots/problem3_random_forest_GrLivArea.png)
 
 **Random Forest - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem3_random_forest_YearBuilt.png)
+![YearBuilt](plots/problem3_random_forest_YearBuilt.png)
 
 
 ### Problem 3: Method Comparison
@@ -117,64 +117,64 @@ Mean Squared Error (MSE): 2495554898.67
 | Random Forest | 1546711974.03 |
 
 **Linear Regression - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem4_linear_regression_GrLivArea.png)
+![GrLivArea](plots/problem4_linear_regression_GrLivArea.png)
 
 **Linear Regression - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem4_linear_regression_YearBuilt.png)
+![YearBuilt](plots/problem4_linear_regression_YearBuilt.png)
 
 **Linear Regression - OverallQual vs SalePrice:**  
-![OverallQual](plots\problem4_linear_regression_OverallQual.png)
+![OverallQual](plots/problem4_linear_regression_OverallQual.png)
 
 **Linear Regression - TotRmsAbvGrd vs SalePrice:**  
-![TotRmsAbvGrd](plots\problem4_linear_regression_TotRmsAbvGrd.png)
+![TotRmsAbvGrd](plots/problem4_linear_regression_TotRmsAbvGrd.png)
 
 **Linear Regression - LotArea vs SalePrice:**  
-![LotArea](plots\problem4_linear_regression_LotArea.png)
+![LotArea](plots/problem4_linear_regression_LotArea.png)
 
 **SVR - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem4_svr_GrLivArea.png)
+![GrLivArea](plots/problem4_svr_GrLivArea.png)
 
 **SVR - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem4_svr_YearBuilt.png)
+![YearBuilt](plots/problem4_svr_YearBuilt.png)
 
 **SVR - OverallQual vs SalePrice:**  
-![OverallQual](plots\problem4_svr_OverallQual.png)
+![OverallQual](plots/problem4_svr_OverallQual.png)
 
 **SVR - TotRmsAbvGrd vs SalePrice:**  
-![TotRmsAbvGrd](plots\problem4_svr_TotRmsAbvGrd.png)
+![TotRmsAbvGrd](plots/problem4_svr_TotRmsAbvGrd.png)
 
 **SVR - LotArea vs SalePrice:**  
-![LotArea](plots\problem4_svr_LotArea.png)
+![LotArea](plots/problem4_svr_LotArea.png)
 
 **Decision Tree - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem4_decision_tree_GrLivArea.png)
+![GrLivArea](plots/problem4_decision_tree_GrLivArea.png)
 
 **Decision Tree - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem4_decision_tree_YearBuilt.png)
+![YearBuilt](plots/problem4_decision_tree_YearBuilt.png)
 
 **Decision Tree - OverallQual vs SalePrice:**  
-![OverallQual](plots\problem4_decision_tree_OverallQual.png)
+![OverallQual](plots/problem4_decision_tree_OverallQual.png)
 
 **Decision Tree - TotRmsAbvGrd vs SalePrice:**  
-![TotRmsAbvGrd](plots\problem4_decision_tree_TotRmsAbvGrd.png)
+![TotRmsAbvGrd](plots/problem4_decision_tree_TotRmsAbvGrd.png)
 
 **Decision Tree - LotArea vs SalePrice:**  
-![LotArea](plots\problem4_decision_tree_LotArea.png)
+![LotArea](plots/problem4_decision_tree_LotArea.png)
 
 **Random Forest - GrLivArea vs SalePrice:**  
-![GrLivArea](plots\problem4_random_forest_GrLivArea.png)
+![GrLivArea](plots/problem4_random_forest_GrLivArea.png)
 
 **Random Forest - YearBuilt vs SalePrice:**  
-![YearBuilt](plots\problem4_random_forest_YearBuilt.png)
+![YearBuilt](plots/problem4_random_forest_YearBuilt.png)
 
 **Random Forest - OverallQual vs SalePrice:**  
-![OverallQual](plots\problem4_random_forest_OverallQual.png)
+![OverallQual](plots/problem4_random_forest_OverallQual.png)
 
 **Random Forest - TotRmsAbvGrd vs SalePrice:**  
-![TotRmsAbvGrd](plots\problem4_random_forest_TotRmsAbvGrd.png)
+![TotRmsAbvGrd](plots/problem4_random_forest_TotRmsAbvGrd.png)
 
 **Random Forest - LotArea vs SalePrice:**  
-![LotArea](plots\problem4_random_forest_LotArea.png)
+![LotArea](plots/problem4_random_forest_LotArea.png)
 
 
 ### Problem 4 - Additional Features
